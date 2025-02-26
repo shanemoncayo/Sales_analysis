@@ -7,8 +7,8 @@ In this project, we dive deeper into the artificial dataset of Global Superstore
 - Growth Insights: To uncover trends in which there is room for growth by analyzing sales data from different products and different regions.
 
 ## Data Description:
+Our analysis leverages a comprehensive dataset that covers key aspects of our business operations.
 
-###Our analysis leverages a comprehensive dataset that covers key aspects of our business operations.
 - Customer Details: The dataset includes information about customers such as their name and a unique customer id.
 - Product Details: Information from each product including the date an order was placed, category of product, unique order id, quantity of products ordered, profit generated from order, and total sales from order.
 - Geographic Details: Information that details the regions, countries, and cities where the sales occur. This helps evaluate regional performance and tailor marketing strategy to different areas.

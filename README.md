@@ -27,5 +27,22 @@ Comprehensive Sales Performance report highlights key insights into regional and
    - The least common category among the products is **Office Supplies** and within Office Supplies the least common sub category is **Labels**. Over 4 years the total sales in the category of Office Supplies is **$73,433.**
 ![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/top10_best_selling_ss.png?raw=true)
 ![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/least_selling_products_ss.png?raw=true)
-![image_alt](
+![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/sales_dist_ss.png?raw=true)
+
+## Regional Analysis
+1. Top Performing Region:
+   - The **Central** region is the top performing region with a total of 41,762 units sold, total sales of $2,822,399.00, and a total profit of **$311,403.98.**
+   - Best selling product in the region is the **Nokia Smart Phone, Full Size** and there were 42 units sold with a total sales of $20,478.00 and a total net profit of **$5,174.55.**
+   - The most profitable category in the region is **Technology.**
+2. Top Performing Country:
+   - The **United States** is the top performing country with a total of 27,873 units sold, total sales of $2,297,354.00, and a total profit of **$286,397.02.**
+   - The best selling product in the country is the **Canon imageClass 2200 Advanced Copier** and there were 20 units sold with a total sales of $61,600.00 and a total net profit of **$25,199.33.**
+   - The most profitable category in the country is **Technology.**
+
+
+
+
+
+
+
 

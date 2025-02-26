@@ -1,2 +1,2 @@
-# Global Superstore Sales Analysis
-1. 
+# Project Overview
+In this project, we dive deeper into the artificial dataset of Global Superstore Inc. to extract valuable insights into sales trends. Through in-depth analysis,we sought to uncover patterns in customer interactions, product performance, and regional return metrics. The primary objective was to leverage these insights to inform strategic decision-making and enhance business efficiency. Our findings are presented through several visualizations which present our objectives.

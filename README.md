@@ -26,5 +26,6 @@ Comprehensive Sales Performance report highlights key insights into regional and
    - The least profitable product is the **Cubify CubeX 3D Printer Double Head Print.** This item provided the company with a loss of **$8,879.97.**
    - The least common category among the products is **Office Supplies** and within Office Supplies the least common sub category is **Labels**. Over 4 years the total sales in the category of Office Supplies is **$73,433.**
 ![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/top10_best_selling_ss.png?raw=true)
-
+![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/least_selling_products_ss.png?raw=true)
+![image_alt](
 

@@ -15,3 +15,16 @@ Our analysis leverages a comprehensive dataset that covers key aspects of our bu
 
 # Global Superstore: Comprehensive Sales Performance Report
 Comprehensive Sales Performance report highlights key insights into regional and product performance. Technology leads sales in strong markets such as the United States., while Office Supplies drive sales in weaker regions like the Caribbean. To optimize performance, we recommend expanding technology offerings, adjusting pricing in weaker markets, and improving logistics with data driven insights. Implementing these strategies will boost revenue and optimize regional performance. 
+
+## Product Performance: Key Insights
+1. Best Performing Products and Categories:
+   -  Highest selling product is the **Apple Smart Phone, Full Size** with a total **171** units sold from 2011 to 2014 and the total sale of **$86,936.**
+   -  The most profitable product is the **Canon imageClass 2200 Advanced Copier.** This item generated a total profit of **$25,199.93** to the company.
+   -  The most common category among the products is **Technology** and within technology the most common sub category is **Phones.** Over 4 years the total sales in the category of technology is **$1,706,874.**
+2. Least Performing Products and Categories:
+   - The lowest selling product is the **Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac** with a total of **2** units sold for a total sale of **$2.00.**
+   - The least profitable product is the **Cubify CubeX 3D Printer Double Head Print.** This item provided the company with a loss of **$8,879.97.**
+   - The least common category among the products is **Office Supplies** and within Office Supplies the least common sub category is **Labels**. Over 4 years the total sales in the category of Office Supplies is **$73,433.**
+
+
+

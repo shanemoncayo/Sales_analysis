@@ -50,7 +50,7 @@ Comprehensive Sales Performance report highlights key insights into regional and
   - **Equatorial Guinea** is the least performing country with a total of 3 units sold for a total sale price of $150.00 and at total profit of **$44.46.**
   - The best selling product in the country is the **HP Personal Copier, Laser** which has one unit sold for $124.00 and the Superstore profited **$42.24.**
   - The most profitable category in the country is **Office Supplies.**
-
+![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/region_improvement_ss.png?raw=true)
 
 
 

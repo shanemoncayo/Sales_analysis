@@ -39,6 +39,7 @@ Comprehensive Sales Performance report highlights key insights into regional and
    - The best selling product in the country is the **Canon imageClass 2200 Advanced Copier** and there were 20 units sold with a total sales of $61,600.00 and a total net profit of **$25,199.33.**
    - The most profitable category in the country is **Technology.**
 ![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/top_ten_countries_ss.png?raw=true)
+![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/sales_v_profit_ss.png?raw=true)
 
 
 

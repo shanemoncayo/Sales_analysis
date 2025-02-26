@@ -52,6 +52,30 @@ Comprehensive Sales Performance report highlights key insights into regional and
    - The most profitable category in the country is **Office Supplies.**
 ![image_alt](https://github.com/shanemoncayo/Sales_analysis/blob/main/region_improvement_ss.png?raw=true)
 
+## Conclusion: Takeaways from the data gathered
+- Technology dominates in the top performing regions such as the Unites States and the Central region.
+- Office Supplies drive sales in lower performing regions and countries, but at a lower profitability rate.
+- Products can create negative profits which indicates inefficiencies in pricing and distribution.
+- High performing technology products should be prioritized in warehouse stocking and regional distribution.
+
+## Recommendations:
+1. Expand Technology Sales in Strong Markets
+   - Technology leads sales in high performing regions. Global Superstore should allocate more inventory and marketing efforts to capitalize on demand in the United States and the Central Region.
+2. Improve Distribution of High Performing Products
+   - The Canon imageClass 2200 Advanced Copier and other high selling products should be priorities in warehouse stocking and regional distribution to maximize revenue.
+   - Utilizing sales data to find demand patterns and optimize logistic planning.
+3. Enhance Marketing Strategies for Office Supplies in Low - Performing Markets
+   - Office Supplies is the highest selling category in underperforming regions.
+   - Creating localized promotions or bulk discounts will boost demand among the local customers.
+4. Optimize Pricing Strategies for Low-Profit Products
+   - Products generating negative profits should be reviewed for cost inefficiencies, discount structures, and alternative pricing models.
+   - Implement dynamic pricing models to adjust pricing based on demand trends.
+
+Overall, when looking at the data insights and implementing these recommendations, the company can increase revenue in high performing regions, improve profitability in low performing markets, and optimize overall sales efficiency.
+
+
+
+
 
 
 
